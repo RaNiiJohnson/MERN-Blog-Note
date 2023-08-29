@@ -26,9 +26,9 @@ Once both the backend and frontend servers are running, open your browser and ac
 
 ## Screenshots
 
-![Plongez dans l'univers interactif de Blog-Note, un réseau social où chaque moment se transforme en une histoire partagée.](frontend/public/screen/BlogNote.png)
-![ Votre hub pour rester connecté avec les actualités et les visages familiers, tout en découvrant les histoires du monde.](frontend/public/screen/welcomeToBlogNote.png)
-![ Blog-Note vous suit partout, s'ajustant parfaitement à votre appareil pour une expérience utilisateur transparente.](frontend/public/screen/responsive1.png)
+![Plongez dans l'univers interactif de Blog-Note, un réseau social où chaque moment se transforme en une histoire partagée.](Frontend/public/screen/BlogNote.png)
+![ Votre hub pour rester connecté avec les actualités et les visages familiers, tout en découvrant les histoires du monde.](Frontend/public/screen/welcomeToBlogNote.png)
+![ Blog-Note vous suit partout, s'ajustant parfaitement à votre appareil pour une expérience utilisateur transparente.](Frontend/public/screen/responsive1.png)
 
 ## Personal Project
 
