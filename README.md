@@ -36,7 +36,7 @@ This repository is a personal project showcasing my skills in building a blog-no
 
 ## Author
 
-RAJAONSON Tolotriniavo Henintsoa
+RAJAONSON Tolotriniavo Henintsoa (RaNii Johnson)
 
 ---
 
