@@ -4,7 +4,7 @@ const Story = require("../Models/storyModel");
 let filename;
 const multerConfig = multer.diskStorage({
   destination: (req, file, callback) => {
-    callback(null, "../frontend/public/uploads/posts/");
+    callback(null, "../Frontend/public/uploads/posts/");
   },
   filename: async (req, file, callback) => {
     const ext = file.mimetype.split("/")[1];
