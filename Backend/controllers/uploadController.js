@@ -3,7 +3,7 @@ const User = require("../Models/userModel");
 let filename;
 const multerConfig = multer.diskStorage({
   destination: (req, file, callback) => {
-    callback(null, "../frontend/public/uploads/profil/");
+    callback(null, "../Frontend/public/uploads/profil/");
   },
   filename: (req, file, callback) => {
     const ext = file.mimetype.split("/")[1];
